@@ -17,7 +17,7 @@ const merriweather = Merriweather({
 })
 
 export const metadata = {
-  title: "HealthBuddy",
+  title: "QuickCare",
   description: "Your trusted healthcare companion",
 }
 
