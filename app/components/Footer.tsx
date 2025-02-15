@@ -176,19 +176,19 @@ export default function Footer() {
                 <span className="p-2 bg-blue-500/10 rounded-lg group-hover:bg-blue-500/20 transition-colors duration-300">
                   <MapPin size={18} className="text-blue-400" />
                 </span>
-                123 Health Street, Medical City
+                Chengal Pattu, Vandalur,Chennai
               </div>
               <div className="contact-item flex items-center gap-3 text-gray-400 hover:text-blue-400 transition-colors duration-300 cursor-pointer group">
                 <span className="p-2 bg-blue-500/10 rounded-lg group-hover:bg-blue-500/20 transition-colors duration-300">
                   <Phone size={18} className="text-blue-400" />
                 </span>
-                (123) 456-7890
+                +91 8409161643
               </div>
               <div className="contact-item flex items-center gap-3 text-gray-400 hover:text-blue-400 transition-colors duration-300 cursor-pointer group">
                 <span className="p-2 bg-blue-500/10 rounded-lg group-hover:bg-blue-500/20 transition-colors duration-300">
                   <Mail size={18} className="text-blue-400" />
                 </span>
-                info@QuickCare.com
+                quickcare@gmail.com
               </div>
             </div>
 

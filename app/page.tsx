@@ -261,8 +261,8 @@ export default function HomePage() {
 
           {/* Stats Section */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-20">
-            <StatsCard number="10k+" text="Happy Patients" delay={0.3} />
-            <StatsCard number="50+" text="Expert Doctors" delay={0.6} />
+            <StatsCard number="1k+" text="Happy Patients" delay={0.3} />
+            <StatsCard number="20+" text="Expert Doctors" delay={0.6} />
             <StatsCard number="24/7" text="Medical Care" delay={0.9} />
           </div>
           {user && user.role !== "doctor" && (
