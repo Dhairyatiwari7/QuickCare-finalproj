@@ -578,9 +578,9 @@ export default function AboutUsPage() {
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-900 dark:text-white">Our Medical Team</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { name: "Dr. Emily Carter", role: "Chief Medical Officer" },
-              { name: "Dr. Michael Lee", role: "Head of Research" },
-              { name: "Dr. Sarah Johnson", role: "Clinical Director" },
+              { name: "Dr. A Sharma", role: "Chief Medical Officer" },
+              { name: "Dr. P. Verma", role: "Head of Research" },
+              { name: "Dr. T. Iyer", role: "Clinical Director" },
             ].map((member, index) => (
               <Card key={index} className="about-card perspective">
                 <CardContent className="p-6">
