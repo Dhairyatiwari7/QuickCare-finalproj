@@ -154,32 +154,32 @@ export default function AboutUsPage() {
 
   const developers: Developer[] = [
     {
-      name: "John Doe",
-      role: "Lead Developer",
-      image: "/api/placeholder/150/150",
-      github: "https://github.com/johndoe",
-      linkedin: "https://linkedin.com/in/johndoe",
-    },
-    {
-      name: "Jane Smith",
+      name: "Amrit Raj",
       role: "Frontend Developer",
-      image: "/api/placeholder/150/150",
-      github: "https://github.com/janesmith",
-      linkedin: "https://linkedin.com/in/janesmith",
+      image: "/dp.jpg", 
+      github: "https://github.com/Yes-Amrit",
+      linkedin: "https://www.linkedin.com/in/amrit-raj-a6b29b28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
     },
     {
-      name: "Mike Johnson",
-      role: "Backend Developer",
-      image: "/api/placeholder/150/150",
-      github: "https://github.com/mikejohnson",
-      linkedin: "https://linkedin.com/in/mikejohnson",
-    },
-    {
-      name: "Sarah Wilson",
+      name: "Shivam Gupta",
       role: "UI/UX Developer",
-      image: "/api/placeholder/150/150",
-      github: "https://github.com/sarahwilson",
-      linkedin: "https://linkedin.com/in/sarahwilson",
+      image: "/dp1.jpg", 
+      github: "https://github.com/neutralcharge",
+      linkedin: "https://www.linkedin.com/in/shivam-gupta-762488351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+    },
+    {
+      name: "Dhairya Tiwari",
+      role: "Backend Developer",
+      
+      github: "https://github.com/Dhairytiwari7",
+      linkedin: "https://www.linkedin.com/in/dhairya-tiwari-70a481347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+    },
+    {
+      name: "Prasun Singh",
+      role: "AI & Backend Developer",
+      image: "/dp2.jpg", 
+      github: "https://github.com/prasun24-15",
+      linkedin: "https://www.linkedin.com/in/prasun-24-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
     },
   ]
 
