@@ -120,8 +120,8 @@ export default function ContactPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
             {[
-              { icon: Phone, text: "+1 (555) 123-4567", label: "Call Us" },
-              { icon: Mail, text: "contact@healthbuddy.com", label: "Email Us" },
+              { icon: Phone, text: "+91 8409161643", label: "Call Us" },
+              { icon: Mail, text: "quickcare@gmail.com", label: "Email Us" },
               { icon: Clock, text: "24/7 Emergency Support", label: "Available" },
             ].map(({ icon: Icon, text, label }, index) => (
               <div key={index} className="flex flex-col items-center text-center p-4 rounded-lg bg-blue-50/50 animate-fadeIn" style={{ animationDelay: `${index * 0.1}s` }}>

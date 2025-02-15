@@ -170,7 +170,7 @@ export default function AboutUsPage() {
     {
       name: "Dhairya Tiwari",
       role: "Backend Developer",
-      
+      image: "/dp3.jpg", 
       github: "https://github.com/Dhairytiwari7",
       linkedin: "https://www.linkedin.com/in/dhairya-tiwari-70a481347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
     },
